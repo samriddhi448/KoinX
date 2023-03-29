@@ -20,3 +20,10 @@ their current balance and current price of ether as output.
 address is of the user, the “value” property gets added to the user’s balance. If the
 “from” address is of the user, the “value” property gets deducted from the user’s
 balance. These transactions are the ones that were fetched in the previous tasks.
+Transactions Model:
+
+<img width="1440" alt="Screenshot 2023-03-29 at 9 26 21 PM" src="https://user-images.githubusercontent.com/69468518/228597152-d277b185-f4ba-4b14-a14f-9fa07216724e.png">
+
+Ether Prices Model:
+
+<img width="1440" alt="Screenshot 2023-03-29 at 9 27 01 PM" src="https://user-images.githubusercontent.com/69468518/228597322-bcde6a4b-08aa-4565-a6bf-212357d27e18.png">

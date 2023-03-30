@@ -27,3 +27,6 @@ Transactions Model:
 Ether Prices Model:
 
 <img width="1440" alt="Screenshot 2023-03-29 at 9 27 01 PM" src="https://user-images.githubusercontent.com/69468518/228597322-bcde6a4b-08aa-4565-a6bf-212357d27e18.png">
+
+Eth balance response:<img width="1440" alt="Screenshot 2023-03-30 at 9 19 22 PM" src="https://user-images.githubusercontent.com/69468518/228892707-90e10c56-30f3-461b-a9ae-341bd1894647.png">
+
